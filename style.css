@@ -1,0 +1,33 @@
+.atas{
+    background-color: rgb(109, 86, 104);
+    padding: 30px;
+    text-align: center;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    margin: 0;
+}
+.tengah1{
+    background-color: rgb(241, 221, 220);
+    height: 755px;
+}
+.tengah{
+    background-color: white;
+    margin-top: 0;
+    margin-right: 30px;
+    margin-bottom: 0;
+    margin-left: 30px;
+    padding: 20px 10px 20px 10px;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+.bawah{
+    text-align: center;
+    background-color: rgb(173, 123, 138);
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: max-content;
+}
+.bawah > h4 {
+    padding: 12px ;
+    font-size: small;
+    margin: 0;
+}
